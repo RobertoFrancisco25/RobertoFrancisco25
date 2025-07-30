@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Olá! Eu sou Roberto
+Sou estudante de Analise e Desenvolvimento de Sistemas na Unifatecie, com grande interesse em desenvolvimento de software e tecnologia. Tenho focado meus estudos em Backend e venho aplicando esse conhecimento em projetos práticos, sempre buscando escrever código limpo, funcional e de qualidade.
 
-<!--
-**RobertoFrancisco25/RobertoFrancisco25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curioso por natureza, estou sempre explorando novas tecnologias e aprimorando minhas habilidades técnicas e colaborativas.
 
-Here are some ideas to get you started:
+🚀 Sobre Mim
+🎓 Estudante de Analise e Desenvolvimento de Sistemas na Unifatecie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interesses: Desenvolvimento Web, APIs, Banco de Dados e Segurança da informação
+
+🌱 Atualmente estudando: React e .NET
+
+🤝 Gosto de colaborar em projetos, aprender em comunidade e compartilhar conhecimento
+
+🛠️ Tecnologias e Ferramentas
+Linguagens: C#
+
+Frameworks/Bibliotecas:.NET 8
+
+Banco de Dados: MySQL 
+
+Ferramentas: Git, GitHub, Rider, Docker.
+
+📫 Vamos nos conectar
+💼 LinkedIn: linkedin.com/in/robertofrancisco20
+🧑‍💻 GitHub: github.com/RobertoFrancisco25
