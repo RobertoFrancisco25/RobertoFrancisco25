@@ -22,5 +22,7 @@ Banco de Dados: MySQL
 Ferramentas: Git, GitHub, Rider, Docker.
 
 📫 Vamos nos conectar
+
 💼 LinkedIn: linkedin.com/in/robertofrancisco20
+
 🧑‍💻 GitHub: github.com/RobertoFrancisco25
